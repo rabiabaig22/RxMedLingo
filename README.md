@@ -1,4 +1,5 @@
 # RxMedLingo
+
 AI-powered prescription scanner and drug interaction checker for Pakistani patients, with accessibility features for low-literacy, Urdu-speaking users.
 
 **What it does:** take a photo of a prescription, extract the medicine names, check for dangerous interactions and duplicate ingredients, and explain the results in spoken Urdu.
